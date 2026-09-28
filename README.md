@@ -33,11 +33,4 @@ I design and build reliable network infrastructures, scalable software solutions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=humamsl&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humamsl&layout=compact&theme=null" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humamsl&theme=null" alt="GitHub Streak" />
 
